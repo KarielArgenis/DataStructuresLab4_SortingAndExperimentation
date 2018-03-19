@@ -105,4 +105,9 @@ public class IntegerSorterTester {
 			a[j] = new Entero(rnd.nextInt(100)); 
 		return a;
 	}
+	////////////////////////////////////////////////////////////////
+	
+	
+	
+	
 }
